@@ -1,0 +1,19 @@
+[
+    {
+    "name": "Pizza",
+    "image_url": "https://i.ibb.co/VBryfd1/slice-crispy-pizza.jpg",
+    "ingredients": ["Dough", "Tomato Sauce", "Cheese", "Pepperoni", "Mushrooms", "Bell Peppers"]
+  },
+  {
+    "name": "Salad",
+    "image_url": "https://i.ibb.co/YkVy14X/salad-chicken-breast.jpg",
+    "ingredients": ["Lettuce", "Tomatoes", "Cucumbers", "Red Onions", "Olives", "Feta Cheese", "Salad Dressing"]
+  },
+  {
+    "name": "Pasta",
+    "image_url": "https://i.ibb.co/HKpVxk5/pasta.jpg",
+    "ingredients": ["Pasta (e.g., spaghetti, penne)", "Tomato Sauce", "Ground Beef", "Garlic", "Onions", "Parmesan Cheese"]
+  }
+ 
+
+]
