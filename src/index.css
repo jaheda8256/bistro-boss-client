@@ -1,3 +1,13 @@
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+.carousel .slider-wrapper {
+    height: 500px;
+}
+
+.thumbs {
+    text-align: center;
+    }
